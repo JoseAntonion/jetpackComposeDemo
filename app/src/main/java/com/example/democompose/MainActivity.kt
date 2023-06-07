@@ -53,7 +53,7 @@ class MainActivity : ComponentActivity() {
             //) {
 
             //PRUEBA repo
-            val prueba = "hola prueba"
+            val prueba = "hola prueba desde dell"
 
             // TODO: ==== N A V E G A C I O N ====
             val navController = rememberNavController()
