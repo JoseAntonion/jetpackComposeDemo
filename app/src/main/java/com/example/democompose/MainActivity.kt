@@ -52,6 +52,9 @@ class MainActivity : ComponentActivity() {
             //    shapes = Shapes
             //) {
 
+            //PRUEBA repo
+            val prueba = "hola prueba"
+
             // TODO: ==== N A V E G A C I O N ====
             val navController = rememberNavController()
             NavHost(// Define el grafo de navegacion
